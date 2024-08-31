@@ -1,0 +1,10 @@
+ganti nama dan nomor owner di setting.js
+untuk mengganti menu di lib/shun-list.js
+untuk mengganti setwelcome di index.js
+mengganti case atau yg lain lain di shun.js
+
+base ori Hw
+tq to
+- hw
+- Lynzz
+sc Premium Jangan di jual karna sc ini dalam perkembangan
